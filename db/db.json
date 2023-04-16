@@ -1,36 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "TESTNOTE",
-        "text": "Test adding a new note",
+        "title": "NEW NOTE",
+        "text": "Adding a new note",
         "id": "3509npctlgilk3ay"
     },
     {
         "title": "Another Test",
-        "text": "something something\n",
+        "text": "something something",
         "id": "3509npexlgilkqfp"
-    },
-    {
-        "title": "sdfsd",
-        "text": "sdfsdfafsdfsadfasd",
-        "id": "3509nq46lgilxemg"
-    },
-    {
-        "title": "One more test",
-        "text": "sdfjsdljflsdjflksdjfksdf",
-        "id": "3509nqdglgim2b1u"
-    },
-    {
-        "title": "Something Something",
-        "text": "Hello",
-        "id": "3509nqeulgim2stp"
-    },
-    {
-        "title": "Something Something Something",
-        "text": "Hello",
-        "id": "3509nqhhlgim3jwi"
     }
 ]

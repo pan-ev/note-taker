@@ -4,6 +4,8 @@
 
 The Note Taker is an application that can be used to write and save notes.
 
+[Deployed Application](https://sheltered-thicket-09157.herokuapp.com/)
+
 ## Table of Contents
   - [Usage](#usage)
   - [Credits](#credits)
